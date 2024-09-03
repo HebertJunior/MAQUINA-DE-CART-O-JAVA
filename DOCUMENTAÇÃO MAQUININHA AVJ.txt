@@ -1,0 +1,10 @@
+FUNCIONALIDADES MAQUININHA AVJ - VERSÃO 1.0
+
+15:42 03/09/2024
+* Hoje construí e decidi cores e designer do layout da maquininha que irei construir utilizando da linguagem Java
+* Usarei uma simulação do modelo de desenvolvimento FDD para construir esse projeto.
+	** FDD modelo de desenvolvimento orientado a funcionalidades: 
+	Analise Orientada a Objetos - Construção da lista de funcionalidades - Planejamento por Funcionalidade -
+	Desenho por Funcionalidade - Construção por funcionalidade.
+
+* Em uma analise geral, preciso inserir nesse projeto um banco de dados ou Arraylist com propriedades de ESTRUTURA DE DADOS, sendo a mais apropriada para esse projeto é o DEQUE com inserção no final. Utilizando dele será possível inserir a transação atual em uma fila e conseguir acessar elementos e criar um método que com um limite especificado de tempo seja possível cancelar/estornar essa venda.
